@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Shwetanshu Shekhar",
+    "occupation": "Co-Founder, VITrendz",
+    "description": "Keep Innovation Alive ",
+    "image": "profilepic.jpg",
+    "bio": " Hey Visitor! Shwetansu here. Welcome to my tech World.Programming does not only mean syntactic lines on black screen or just maths problem solving to me.I love the way it converts my mind ideas to reality and people actually sensing it's slightest impact",
+    "contactmessage": "Get in touch with me !Let's create things together",
+    "email": "shwetanshu2000@gmail.com",
+    "phone": "+917667258131",
+    "address": {
+      "street": "Co-Operative Colony",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "zip": "827001"
+    },
+    "website": "https://github.com/shwetanshutech/",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/shwetanshutech",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shwetanshu-shekhar-29b22a168/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "medium",
+        "url": "https://keepitlogical.medium.com/",
+        "className": "fa fa-medium"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100027335563949",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shwetanshu_7/",
+        "className": "fa fa-instagram"
+      }
+     
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "degree": "Bachelor of Technology, Electronics and Communications ",
+        "graduated": "July 2018- Present",
+        "description": "Under Graduation"
+      }
+    ],
+    "work": [
+      {
+        "company": "VITrendz",
+        "title": "Co-Founder & Developer",
+        "years": "April 2020-Present",
+        "description": "VITrendz is an organization working to learn, develop,entertain and make academics easier as well as productive. Aims at providing digital services, promoting talents and building social media communities across various campuses of VIT."
+      },
+      {
+        "company": "Helphen India",
+        "title": "Core-Committe Member",
+        "years": "Jan 2019 -Present",
+        "description": "Helphen is a non-profit organization that was established to help protect, promote and develop the welfare of the needy and indigent.  Organized multiple medical camps, food distribution camps and awareness seminars in local schools."
+
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MsgIng-App",
+        "category": "",
+        "image": "msging.png",
+        "url": "https://github.com/shwetanshutech/reely-MERN"
+      },
+      {
+        "title": "Reely",
+        "category": "",
+        "image": "reely.png",
+        "url": "https://github.com/shwetanshutech/reely-MERN"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "facebook.png",
+        "url": "https://github.com/shwetanshutech/facebook"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shwetanshu is great is algorithms ",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Doing Projects with Shwetanshu is awesome experience and is a learning bag!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
