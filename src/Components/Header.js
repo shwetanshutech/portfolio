@@ -51,7 +51,7 @@ const Header = ({ data }) => {
           </li>
           <li>
             <a className="smoothscroll" href="#testimonials">
-              Testimonials
+              Quotes i believe in
             </a>
           </li>
           <li>
