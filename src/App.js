@@ -33,5 +33,5 @@ const App = () => {
     </div>
   );
 };
-
+// firebase deploy --only hosting :shwetanshushekhar
 export default App;
