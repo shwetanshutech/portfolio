@@ -73,24 +73,20 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
+        "name": "C++",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "React",
+        "level": "60%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "MERN",
+        "level": "70%"
       }
     ]
   },
