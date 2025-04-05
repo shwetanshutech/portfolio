@@ -52,21 +52,21 @@
       {
         "school": "Vellore Institute of Technology",
         "degree": "Bachelor of Technology, Electronics and Communications ",
-        "graduated": "July 2018- Present",
-        "description": "Under Graduation"
+        "graduated": "July 2018- July 2022",
+        "description": "Graduated with a CGPA of 8.99"
       }
     ],
     "work": [
       {
         "company": "VITrendz",
         "title": "Co-Founder & Developer",
-        "years": "April 2020-Present",
+        "years": "April 2020- July 2022",
         "description": "VITrendz is an organization working to learn, develop,entertain and make academics easier as well as productive. Aims at providing digital services, promoting talents and building social media communities across various campuses of VIT."
       },
       {
         "company": "Helphen India",
         "title": "Core-Committe Member",
-        "years": "Jan 2019 -Present",
+        "years": "Jan 2019 - July 2022",
         "description": "Helphen is a non-profit organization that was established to help protect, promote and develop the welfare of the needy and indigent.  Organized multiple medical camps, food distribution camps and awareness seminars in local schools."
 
       }
@@ -96,7 +96,7 @@
         "title": "MsgIng-App",
         "category": "",
         "image": "msging.png",
-        "url": "https://github.com/shwetanshutech/reely-MERN"
+        "url": "https://github.com/shwetanshutech/msgIng"
       },
       {
         "title": "Reely",
@@ -115,8 +115,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Don't be afraid to give your best to what seemingly are small jobs. Every time you conquer one it makes you that much stronger. If you do the little jobs well, the big ones will tend to take care of themselves ",
-        "user": "William Patten"
+        "text": "Life will knock us down, but we can choose whether or not to stand back up",
+        "user": "Jackie chan"
       },
       {
         "text": "The future depends on what you do today.",
